@@ -1,114 +1,53 @@
-# Hi, I'm Elaf Alzoubi 👋
-
 <div align="center">
-  
-### AI-Powered Developer | Python Enthusiast | Building Intelligent Solutions
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Working+with+AI+to+build+better+apps;Python+%7C+AI+%7C+Full-Stack;Automating+the+future)
+
+<a href="https://elafalzoubi.vercel.app"><img src="assets/hero.svg" width="100%" alt="Elaf Alzoubi, Software Engineer in Stockholm"/></a>
+
+<a href="https://elafalzoubi.vercel.app"><img src="assets/btn-portfolio.svg" width="32%" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/elaf-alzoubi-015a6a322"><img src="assets/btn-linkedin.svg" width="32%" alt="LinkedIn"/></a>
+<a href="mailto:elaffree85@gmail.com"><img src="assets/btn-email.svg" width="32%" alt="Email"/></a>
 
 </div>
 
----
+## About me
 
-## 🚀 About Me
+I'm a software engineer in Stockholm who turns messy, real world operations into clean software that people rely on every day.
 
-Passionate developer building **AI-powered applications** that solve real-world problems. I specialize in creating intelligent systems using Large Language Models (LLMs) to automate complex workflows and enhance productivity.
+At a Swedish clean energy company I build **Atlas**, the platform that carries every heat pump, solar and battery install from signed contract to finished job. I work across the whole stack: Python APIs, integrations, cloud infrastructure and the screens our ops team lives in. AI agents are part of how I ship, every single day.
 
-**What I Do:**
-- 🤖 Develop AI-powered automation tools
-- 🐍 Build robust Python applications  
-- 🌐 Create dynamic web interfaces
-- 🔧 Implement full-stack solutions
-- 📊 Work with complex data pipelines
+<img src="assets/now.svg" width="100%" alt="What I am working on now"/>
 
-## 💻 Tech Stack
+## What I build at work
 
-<div align="center">
+<img src="assets/system.svg" width="100%" alt="The platform I work on: portals for customers, installers, ops and sales around one core API, connected to suppliers, accounting, banks and messaging, running on Google Cloud"/>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Featured projects
 
-### Tools & Frameworks
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+<a href="#what-i-build-at-work"><img src="assets/card-atlas.svg" width="49%" alt="Atlas Ops Platform"/></a>
+<a href="https://github.com/SeniorDevElaf/offline-voice-to-text-application"><img src="assets/card-voice.svg" width="49%" alt="Offline Voice to Text"/></a>
+<a href="https://github.com/SeniorDevElaf/An-intelligent-resume-generation-system"><img src="assets/card-resume.svg" width="49%" alt="ResumeFlow"/></a>
+<a href="https://caire-hazel.vercel.app"><img src="assets/card-caire.svg" width="49%" alt="Caire Scheduling"/></a>
+<a href="https://exam-work-ten.vercel.app"><img src="assets/card-gameshub.svg" width="49%" alt="GamesHub"/></a>
+<a href="https://www.parkingtime.se/sv"><img src="assets/card-parkingtime.svg" width="49%" alt="ParkingTime Dashboard"/></a>
+</p>
 
-### AI & Data
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+## Journey
 
-</div>
+<img src="assets/timeline.svg" width="100%" alt="2020 FutureGames, 2022 KTH, 2024 ParkingTime AB, 2026 clean energy tech"/>
 
-## 📈 GitHub Statistics
+## Tech stack
 
-<div align="center">
+<img src="assets/stack.svg" width="100%" alt="Python, TypeScript, React, Next.js, FastAPI, Go, Google Cloud, AWS, Docker, Terraform, PostgreSQL and AI tooling"/>
 
-![Elaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElafAlzoubi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+## GitHub activity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElafAlzoubi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://raw.githubusercontent.com/SeniorDevElaf/SeniorDevElaf/output/stats.svg" width="100%" alt="GitHub activity over the last 12 months"/>
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ElafAlzoubi&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeniorDevElaf/SeniorDevElaf/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/SeniorDevElaf/SeniorDevElaf/output/snake-light.svg" width="100%" alt="A snake eating my contribution graph"/>
+</picture>
 
-</div>
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
 
-## 🤖 AI Collaboration
-
-I actively collaborate with **Large Language Models (LLMs)** to accelerate development and build innovative solutions:
-
-- 🤖 **Code Generation** - AI-assisted development for faster iteration
-- 🧠 **Problem Solving** - Collaborating with AI to find optimal solutions  
-- 📚 **Continuous Learning** - Using AI for rapid skill acquisition
-- 🔧 **Intelligent Debugging** - AI-powered code optimization
-- 📝 **Automated Documentation** - AI-generated documentation
-
-> *"AI is a powerful collaborator that enhances human creativity and problem-solving capabilities."*
-
-## 🌟 Recent Work
-
-Currently focused on building **AI-powered automation tools** and **intelligent applications** that make life easier and more efficient.
-
-<div align="center">
-
-### 🔥 Featured Project: ResumeFlow
-*AI-Powered Resume Generation System*
-
-✨ Automatic resume tailoring | 🤖 Multi-LLM support | 📄 Professional PDF generation
-
-**Tech Stack:** Python | Streamlit | LangChain | OpenAI | LaTeX
-
-</div>
-
-## 🎯 Goals
-
-- [ ] Build more AI-powered applications
-- [ ] Contribute to open-source projects
-- [ ] Master advanced ML techniques
-- [ ] Share knowledge through blog posts
-- [ ] Collaborate with other developers
-
-## 📱 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elaf-alzoubi-015a6a322)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elaffree85@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://elafalzoubi.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/ElafAlzoubi/count.svg)
-
-**Thanks for visiting! ⭐ Star some repos if you like what you see!**
-
-</div>
+<!-- Assets are built by scripts/build.py. The activity card and the snake refresh daily from .github/workflows/refresh.yml -->
